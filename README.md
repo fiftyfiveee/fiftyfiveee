@@ -1,16 +1,29 @@
-## Hi there 👋
+## hello, i'm [fiftyfive](https://readme.fiftyfive.lol)
 
-<!--
-**fiftyfiveee/fiftyfiveee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a web developer (not full stack yet), a video editor & graphic designer
 
-Here are some ideas to get you started:
+<details>
+<summary>coding languages i know</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Languages |
+|-----:|-----------|
+|     1| HTML      |
+|     2| Python    |
+|     3| Lua       |
+|     4| CSS (idk if it counts but oh well)       |
+
+</details>
+
+# [socials](https://go.fiftyfive.lol)
+
+[instagram](https://go.fiftyfive.lol/instagram)
+[twitter/x](https://go.fiftyfive.lol/twitter)
+[roblox](https://go.fiftyfive.lol/roblox)
+[steam](https://go.fiftyfive.lol/steam)
+[youtube](https://go.fiftyfive.lol/youtube)
+
+# [projects](https://projects.fiftyfive.lol)
+
+[fiftyfive.lol](https://www.fiftyfive.lol)
+
+[55sens.lol](https://www.55sens.lol) (my old website)
